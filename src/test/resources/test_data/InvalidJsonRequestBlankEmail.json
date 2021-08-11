@@ -1,0 +1,8 @@
+{
+  "emailAddress":"",
+  "number":{
+    "countryCode":"+91",
+    "phoneNumber":"0123456789"
+  },
+  "password":"inValidPasswordFormat"
+}

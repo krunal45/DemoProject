@@ -1,0 +1,8 @@
+{
+  "emailAddress":"emailAddress",
+  "number":{
+    "countryCode":"countryCode",
+    "phoneNumber":"phoneNumber"
+  },
+  "password":"password"
+}
