@@ -1,5 +1,6 @@
 Feature: Verification of UserRegistration in GMAIL
 
+  @APITest
   Scenario Outline: Verify user Registration
     And Make Post call from "<Payload>" with "<Endpoint>" and save response as variable and check if status is "<ResponseCode>"
     Then Validate response body json with "<expectedJsonFile>"
